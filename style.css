@@ -297,6 +297,10 @@ button:active{
 
   }
 
+  header{
+  margin-top:0vh;
+  }
+
   header h3{
     font-size: 12px;
   }

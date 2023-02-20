@@ -308,8 +308,14 @@ button:active{
   button{
     font-size: 12px;
   }
-
-  #div1 h3{
+	
+ #button{
+	 
+     margin-top:2vh;
+     height:6vh;
+ }
+ 
+ #div1 h3{
     font-size: 15px;
   }
   input{
